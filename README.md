@@ -7,7 +7,7 @@ Just a 2D space shooter from a neighboring parallel world. It was written using 
   - Game Theory: The game incorporates elements of game theory, such as the prisoner's dilemma, in the design of the boss battles. The player must make strategic decisions about when to attack and when to retreat, taking into account the boss's behavior and the player's own resources.
 
 ## Game launch:
- - git clone 
+ - git clone https://github.com/Nachiket1904/Cosmo-rush.git
  - cd Cosmo-rush
  - python -m venv env
  - source env/Scripts/activate
